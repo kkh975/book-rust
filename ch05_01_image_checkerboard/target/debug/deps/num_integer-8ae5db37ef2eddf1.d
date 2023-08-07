@@ -1,0 +1,7 @@
+/Users/user/Documents/test/book-rust/ch05_01_image_checkerboard/target/debug/deps/num_integer-8ae5db37ef2eddf1.rmeta: /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/lib.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/roots.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/average.rs
+
+/Users/user/Documents/test/book-rust/ch05_01_image_checkerboard/target/debug/deps/num_integer-8ae5db37ef2eddf1.d: /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/lib.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/roots.rs /Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/average.rs
+
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/lib.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/roots.rs:
+/Users/user/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.45/src/average.rs:
